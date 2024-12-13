@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Bing Chilling
+Data Science and Statistics student; DSA lover; chilling with Neural Networks
 <!--
 **Ange339/Ange339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
